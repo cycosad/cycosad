@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Akhil Regonda!
+### 👋 Hi there, I'm Akhil Regonda! ![visitors](https://visitor-badge.glitch.me/badge?page_id=cycosad.cycosad&left_color=151515&right_color=fb4362)
 
 ---
 
