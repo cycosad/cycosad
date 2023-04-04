@@ -47,7 +47,7 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&show_icons=true&theme=radical)
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&show_icons=true&theme=dracula)
 
 
 
