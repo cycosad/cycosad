@@ -39,6 +39,9 @@
   <li><a href="https://medium.com/@regondaakhil1509/the-ultimate-checklist-for-starting-a-react-project-best-practices-and-tips-b73337b9b173"><i>The Ultimate Checklist for Starting a React Project: Best Practices and Tips</i></a></li>
 </ul>
 
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺👉👈
+If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
 
 <a href="https://www.buymeacoffee.com/cycosad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<h3>My GitHub contributions summary</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&hide_border=true)](https://git.io/streak-stats)
