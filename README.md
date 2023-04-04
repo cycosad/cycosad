@@ -1,8 +1,6 @@
-### Welcome to my Github profile! Check out my projects and repositories to see what I'm working on. Feel free to reach out if you have any questions or feedback. Happy coding! 👋
+### 👋 Hi there, I'm Akhil Regonda!
 
 ---
-
-I'm Akhil Regonda, Fullstack developer from Dallas, Texas
 
 <h3>When I code, I rely on</h3>
 <p>
