@@ -1,6 +1,8 @@
-### 👋 Hi there, I'm Akhil Regonda! ![visitors](https://visitor-badge.glitch.me/badge?page_id=cycosad.cycosad&left_color=151515&right_color=fb4362)
+### 👋 Hi there, I'm Akhil Regonda!
 
 ---
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cycosad.cycosad&right_color=fb4362&left_color=151515)
 
 <h3>When I code, I rely on</h3>
 <p>
