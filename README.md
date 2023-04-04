@@ -45,9 +45,9 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 <h3>My GitHub contributions summary</h3>
 <div>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&hide_border=true"/></a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=cycosad"/></a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&show_icons=true&theme=radical)
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
