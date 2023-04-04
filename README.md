@@ -2,7 +2,7 @@
 
 ---
 
-I'm Akhil Regonda, Fullstack developer from 
+I'm Akhil Regonda, Fullstack developer from Dallas, Texas
 
 <h3>When I code, I rely on</h3>
 <p>
