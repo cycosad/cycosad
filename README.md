@@ -1,5 +1,7 @@
 ### Welcome to my Github profile! Check out my projects and repositories to see what I'm working on. Feel free to reach out if you have any questions or feedback. Happy coding! 👋
 
+---
+
 I'm Akhil Regonda, Fullstack developer from 
 
 <h3>When I code, I rely on</h3>
